@@ -1,0 +1,33 @@
+{
+    "khodam": [
+        {
+            "name": "مارينا مكرم منير",
+            "birthdate": "15-2-1997",
+            "birthYear": "1997",
+            "qualification": "بكالوريوس حاسبات ومعلومات",
+            "currentPosition": "اسره تالته ورابعه وخامسه"
+        },
+        {
+            "name": "ماركو مجدى عزمى",
+            "birthdate": "13-10-1995",
+            "birthYear": "1995",
+            "qualification": "بكالوريوس نظم معلومات اداريه",
+            "currentPosition": "اسره ثانوى"
+        },
+        {
+            "name": "ماجد مكرم منير",
+            "birthdate": "20-10-1985",
+            "birthYear": "1985",
+            "qualification": "بكالوريوس تجاره",
+            "currentPosition": "اسره اعدادى"
+        },
+        {
+            "name": "ميشيل مكرم منير",
+            "birthdate": "21-9-1986",
+            "birthYear": "1986",
+            "qualification": "بكالوريوس تجاره",
+            "currentPosition": "اسره ثانوى"
+        }
+        
+    ]
+}
